@@ -21,6 +21,6 @@ As atividades a seguir abordam o básico do HTML:
 13. [Atividade 13: `<form>`, `<label>`, `<input>`, `<textarea>`, `<select>`, `<option>`](Atividade13.html)
 14. [Atividade 14: `<br>`, `<!-- -->`](Atividade14.html)
 
-## Aluno
+## Aluno(a)
 
 Rebecca Oliveira
